@@ -13,7 +13,7 @@
     "debug": "~2.1.1",
     "easymysql": "0.2.7",
     "ejs": "~2.3.1",
-    "express": "~4.12.2",
+    "express": "~4.20.0",
     "iconv-lite": "0.4.7",
     "mongoose": "*",
     "morgan": "~1.5.1",
